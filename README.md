@@ -1,1 +1,1 @@
-This repository contains projects developed while learning HTML, CSS and JavaScript.
+This repository showcases projects created during my learning journey with HTML, CSS, and JavaScript.
